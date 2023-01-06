@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.container-box{
+    position: absolute;
+  width: 10%;
+  bottom: 20px;
+ 
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+margin: auto;
+left: 50%;
+
+     
+    
+}
+
+.container-box button{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.container-box button:hover{
+    box-shadow: 20px palegreen ;
+}
+.container-box1{
+position: absolute;
+width: 10%;;
+right: 15px;  
+bottom: 10px;
+text-align: justify;
+
+margin: auto;
+/* background-color: red; */
+color: white;
+/* border: 1px solid gray; */
+border-radius: 20px;
+padding: 20px;
+font-size: 20px;
+
+
+
+
+}
+#btn{
+    padding: 20px;
+}
+.active{
+    /* position: absolute; */
+width: 100%;;
+/* right: 15px;                  */
+bottom: 10px;
+text-align: justify;
+
+margin: auto;
+background-color: red;
+color: white;
+border: 1px solid gray;
+border-radius: 20px;
+padding: 20px;
+font-size: 20px;
+}
+
+/* #output.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  }
+   */
